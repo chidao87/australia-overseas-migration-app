@@ -1,6 +1,3 @@
-#MAIB - PROGRAMMING WITH PYTHON & R –  Final Project 
-#Name: Chi Thi Cam Dao 
-#Roll number: 006
 #Topic: Overseas migrants in Australia arrivals and depatures from 2016 to 2023
 
 #---Import the libraries---
